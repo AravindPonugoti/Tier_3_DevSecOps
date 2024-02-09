@@ -1,6 +1,6 @@
 # DevOps Project Overview: Three-Tier Architecture on AWS
 
-##### Blog URL: https://medium.com/@laxmankandhukuri/devsecops-three-tier-project-using-aws-eks-argocd-prometheus-grafana-and-jenkins-1775bf58bbc4 
+Blog URL: https://medium.com/@laxmankandhukuri/devsecops-three-tier-project-using-aws-eks-argocd-prometheus-grafana-and-jenkins-1775bf58bbc4 
 
 Embark on an immersive journey through the intricacies of modern DevOps practices, as we meticulously guide you in constructing a robust Three-Tier architecture on AWS. This project encompasses a spectrum of industry-leading tools, including AWS EKS, ArgoCD, and Jenkins, bringing together development, security, and operations seamlessly.
 
